@@ -9,4 +9,4 @@
 ### Nombre del profesor: Cristopher Gerardo Gaytán Diaz 
 
 ## ¿Para que se utiliza Markdown?
-### jajajajaj
+### Markdown es un lenguaje de marcado simple que nos permite agregar formato, vinculos e imaganes con facilidad al texto 
